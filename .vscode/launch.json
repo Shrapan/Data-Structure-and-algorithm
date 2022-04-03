@@ -1,0 +1,98 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prime_Number",
+            "request": "launch",
+            "mainClass": "Prime_Number",
+            "projectName": "Data Structure and algorithm_37d2f354"
+        },
+        {
+            "type": "java",
+            "name": "Launch add_no",
+            "request": "launch",
+            "mainClass": "add_no",
+            "projectName": "Data Structure and algorithm_37d2f354"
+        },
+        {
+            "type": "java",
+            "name": "Launch bar",
+            "request": "launch",
+            "mainClass": "bar",
+            "projectName": "Data Structure and algorithm_37d2f354"
+        },
+        {
+            "type": "java",
+            "name": "Launch countDigit",
+            "request": "launch",
+            "mainClass": "countDigit",
+            "projectName": "Data Structure and algorithm_37d2f354"
+        },
+        {
+            "type": "java",
+            "name": "Launch digitOFNumber",
+            "request": "launch",
+            "mainClass": "digitOFNumber",
+            "projectName": "Data Structure and algorithm_37d2f354"
+        },
+        {
+            "type": "java",
+            "name": "Launch fibonaci",
+            "request": "launch",
+            "mainClass": "fibonaci",
+            "projectName": "Data Structure and algorithm_37d2f354"
+        },
+        {
+            "type": "java",
+            "name": "Launch inverseNo",
+            "request": "launch",
+            "mainClass": "inverseNo",
+            "projectName": "Data Structure and algorithm_37d2f354"
+        },
+        {
+            "type": "java",
+            "name": "Launch mul_no",
+            "request": "launch",
+            "mainClass": "mul_no",
+            "projectName": "Data Structure and algorithm_37d2f354"
+        },
+        {
+            "type": "java",
+            "name": "Launch reverseNo",
+            "request": "launch",
+            "mainClass": "reverseNo",
+            "projectName": "Data Structure and algorithm_37d2f354"
+        },
+        {
+            "type": "java",
+            "name": "Launch subOfArray",
+            "request": "launch",
+            "mainClass": "subOfArray",
+            "projectName": "Data Structure and algorithm_37d2f354"
+        },
+        {
+            "type": "java",
+            "name": "Launch sub_no",
+            "request": "launch",
+            "mainClass": "sub_no",
+            "projectName": "Data Structure and algorithm_37d2f354"
+        },
+        {
+            "type": "java",
+            "name": "Launch sumOfArray",
+            "request": "launch",
+            "mainClass": "sumOfArray",
+            "projectName": "Data Structure and algorithm_37d2f354"
+        }
+    ]
+}
